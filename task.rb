@@ -55,4 +55,5 @@ puts "Even numbers = #{mc.even_numbers.join(" ")}"
 puts "Inter string"
 mc.str=gets.chomp
 mc.hf_word.each{|element| puts "Most repeated word: #{element.join(" ")}"}
+	
 end
